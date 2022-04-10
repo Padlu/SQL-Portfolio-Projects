@@ -16,7 +16,7 @@
 *  Dataset is gathered from '[Our World in Data](https://ourworldindata.org/covid-deaths)'
 
 
-**Summary:**
+**Summary: [`SQL code`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql)**
 1. In this project, I worked to query the given dataset to answer simple questions of which a few are:
     1. Likelihood of dying if you contract COVID in India
     2. What countries have the highest infection rate compared to population
@@ -29,7 +29,6 @@
 4. Required queried tables for Tableau Vizualisation are saved using views.
 
 
-**Here is the link to the [`SQL code`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql)**
 
 ---
 
@@ -46,7 +45,7 @@
 * To fool around the dataset to use SQL skills
 
 
-**Summary:**
+**Summary: [`SQL code`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql)**
 1. The project performs following data cleaning tasks:
     1. Standardizing Date format of SaleDate field
     2. Populating NULL entries with correct values in Property Address field
@@ -56,9 +55,6 @@
     6. Dropped Unused/non-required columns
 3. This simple project focused on above mentioned SQL skills to be used on the given dataset.
 4. This project demonstrates useful queries like JOIN,conditional CASE, PARTITION BY clause with CTE, GROUP BY, WHERE, ORDER BY, RENAME, UPDATE, ALTER TABLE, DROP, String functions and aggregation functions.
-
-
-**Here is the link to the [`SQL code`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql)**
 
 
 
@@ -75,4 +71,4 @@
 * Future: Use other SQL tools such as MySQL, PostgreSQL, BigQuery, etc to perform same projects.
 
 
-Created by [Abhishek Padalkar](https://github.com/Padlu)
+SQL Portfolio Projects created by [Abhishek Padalkar](https://github.com/Padlu)
