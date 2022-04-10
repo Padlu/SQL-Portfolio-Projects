@@ -2,7 +2,7 @@
 
 `(Any points in here?)`
 
-## Project 1: Data Exploration using SQL. [`SQLcode`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql)
+## Project [`1`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)): Data Exploration using SQL. 
 
 **Experience Level:** Intermediate
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Project 2: Data Cleaning using SQL. [`SQLcode`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql)
+## Project [`2`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%202%20(Data%20Cleaning)): Data Cleaning using SQL. 
 
 **Experience Level:** Intermediate
 
