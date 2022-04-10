@@ -10,6 +10,8 @@
 
 **Technology used:** T-SQL (SQL Server Management System)
 
+![alt text](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Images-/SQL-Pandemic-2.png "Data Exploration of COVID PANDEMIC")
+
 **Objective:**
 * To explore the Covid Deaths and Covid Vaccinations Data using SQL
 * To fool around the dataset to use SQL skills
@@ -39,6 +41,8 @@
 **SQL Skills used:** JOINS, CTE, ISNULL(), String Functions, conditional CASE statement, Converting data types, RENAME, UPDATE, ALTER TABLE, DROP
 
 **Technology used:** T-SQL (SQL Server Management System)
+
+![alt text](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Images-/SQL-Nashville.jpg "Data Exploration of COVID PANDEMIC")
 
 **Objective:**
 * To perform simple Data Cleaning for Nashville Housing Data using SQL
