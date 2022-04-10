@@ -30,7 +30,7 @@
     5. How many people in all locations have been vaccinated
     6. What is Rolling TotalVaccinations % per population (Windows Function, CTE/Temp table)
 2. This simple project focused on above mentioned SQL skills to be used on the given dataset.
-3. This project demonstrates advance queries like combination of PARTITION BY clause with JOIN, CTE and Temp tables and to create VIEWS for later use and queries with GROUP BY, WHERE, ORDER BY, and aggregation functions.
+3. This project demonstrates advance queries like combination of PARTITION BY clause with [JOIN](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql#L212), [CTE and Temp tables](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql#L233) and to create [VIEWS](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%201%20(Data%20Exploration)/SQL_based_Data_Exploration.sql#L290) for later use and queries with GROUP BY, WHERE, ORDER BY, and aggregation functions.
 4. Required queried tables for Tableau Vizualisation are saved using views.
 
 
@@ -61,7 +61,7 @@
     5. Removed Duplicate entries
     6. Dropped Unused/non-required columns
 3. This simple project focused on above mentioned SQL skills to be used on the given dataset.
-4. This project demonstrates useful queries like JOIN,conditional CASE, PARTITION BY clause with CTE, GROUP BY, WHERE, ORDER BY, RENAME, UPDATE, ALTER TABLE, DROP, String functions and aggregation functions.
+4. This project demonstrates useful queries like [JOIN](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql#L75), [conditional CASE](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql#L225), [PARTITION BY clause with CTE](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql#L268), GROUP BY, WHERE, ORDER BY, RENAME, UPDATE, ALTER TABLE, DROP, [String functions](https://github.com/Padlu/SQL-Portfolio-Projects/blob/f497e40848faab035b0661e457988cd4734f1c40/Portfolio%202%20(Data%20Cleaning)/SQL_based_Data_Cleaning.sql#L112) and aggregation functions.
 
 
 
