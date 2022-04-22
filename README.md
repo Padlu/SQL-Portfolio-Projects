@@ -2,7 +2,7 @@
 
 > **[`DON'T MISS TO CHECK OUT PROJECT 3!`](https://github.com/Padlu/SQL-Portfolio-Projects/tree/main/Portfolio%203%20(Data%20Cleaning%20to%20Exploration%20and%20Advanced%20Querying))**
 
-## Project [`1`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)): Data Exploration using SQL. 
+## Project [`1`](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Portfolio%201%20(Data%20Exploration)): Data Exploration using SQL w/ Viz. 
 
 **Experience Level:** Intermediate
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Project [`3`](https://github.com/Padlu/SQL-Portfolio-Projects/tree/main/Portfolio%203%20(Data%20Cleaning%20to%20Exploration%20and%20Advanced%20Querying)): SQL End-to-End (Data Cleaning and Transformation, Data Exploration and Saving Viz VIEWs using Advanced Querying).
+## Project [`3`](https://github.com/Padlu/SQL-Portfolio-Projects/tree/main/Portfolio%203%20(Data%20Cleaning%20to%20Exploration%20and%20Advanced%20Querying)): SQL End-to-End (Data Cleaning and Transformation, Data Exploration and Saving Viz VIEWs using Advanced Querying) w/ Viz.
 
 **Experience Level:** Intermediate-Advance
 
