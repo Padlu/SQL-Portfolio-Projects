@@ -32,3 +32,13 @@
 
 
 ---
+
+### Tableau Visualization:
+
+</br>
+
+[`VIZ Link`](https://public.tableau.com/views/TableauPortfolioProject1_16498755048070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+</br>
+
+![alt text](https://github.com/Padlu/SQL-Portfolio-Projects/blob/main/Images-/Portfolio-1-Tab/COVID_Dash.png "Tableau Visualization")
