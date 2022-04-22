@@ -34,7 +34,7 @@
 
 ---
 
-## Project [`3`](https://github.com/Padlu/SQL-Portfolio-Projects/tree/main/Portfolio%203%20(Data%20Cleaning%20to%20Exploration%20and%20Advanced%20Querying)): SQL End-to-End (Data Cleaning and Transformation, Data Exploration and Saving VIEWs using Advanced Querying).
+## Project [`3`](https://github.com/Padlu/SQL-Portfolio-Projects/tree/main/Portfolio%203%20(Data%20Cleaning%20to%20Exploration%20and%20Advanced%20Querying)): SQL End-to-End (Data Cleaning and Transformation, Data Exploration and Saving Viz VIEWs using Advanced Querying).
 
 **Experience Level:** Intermediate-Advance
 
